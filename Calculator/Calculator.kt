@@ -12,7 +12,6 @@ class Calculator {
 }
 fun main() {
     while (true) {
-        val c = Calculator()
-        c.calc()
+        val c = Calculator().calc()
     }
 }
